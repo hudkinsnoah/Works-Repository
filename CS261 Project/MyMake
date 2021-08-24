@@ -1,0 +1,11 @@
+all:
+	#make a directory to hold the build product
+	mkdir -p linux
+
+	#build MyProgram to that directory
+	g++ -std=c++11 -g -o linux/Assign5Tester.exe tester.cpp IndexMap.cpp IndexRecord.cpp
+	g++ -std=c++11 -g -o linux/Assign5Index.exe IndexBuilder.cpp IndexMap.cpp IndexRecord.cpp
+
+clean:
+	#remove the linux directory
+	rm -rf linux
