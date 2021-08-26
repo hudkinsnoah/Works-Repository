@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2020-10-01T22:16:08. -->
+<!-- Written by QtCreator 4.11.0, 2021-08-25T19:19:54. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -287,8 +287,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Noahh/OneDrive/Documents/LogicGateProject2-1/LogicGateProject2-1.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Noahh/OneDrive/Documents/LogicGateProject2-1/LogicGateProject2-1.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">LogicGateProject2-12</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Noahh/OneDrive/Desktop/Works-Repository/CS261 Final Project/LogicGateProject2-1.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Noahh/OneDrive/Desktop/Works-Repository/CS261 Final Project/LogicGateProject2-1.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
